@@ -137,3 +137,9 @@ ul li a:hover {
   color: rgb(247, 241, 241);
   transition: 2s ease-in-out;
 }
+@media screen and (max-width: 1400px) {
+  .image-container {
+    height: 300px;
+    width: 500px;
+  }
+}
